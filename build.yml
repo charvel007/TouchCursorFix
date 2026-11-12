@@ -1,6 +1,6 @@
 name: Build TouchCursorFix
 
-on:
+'on':
   workflow_dispatch:
 
 permissions:
